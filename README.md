@@ -7,6 +7,12 @@
 ###
 
 <div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=ahleksu.ahleksu&left_text=Profile%20Views"  />
+</div>
+
+###
+
+<div align="center">
     
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahleksu)](https://github.com/anuraghazra/github-readme-stats)
     
@@ -126,4 +132,3 @@
 </div>
 
 ###
-
