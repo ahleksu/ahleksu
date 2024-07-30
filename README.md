@@ -107,12 +107,16 @@
 
 ###
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ahleksu)](https://github.com/ryo-ma/github-profile-trophy)
+<div style="text-align: center;">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahleksu)](https://github.com/anuraghazra/github-readme-stats)
+  [![trophy](https://github-profile-trophy.vercel.app/?username=ahleksu)](https://github.com/ryo-ma/github-profile-trophy)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ahleksu&show_icons=true&count_private=true)  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahleksu)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=ahleksu)  
+  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ahleksu&show_icons=true&count_private=true)  
+
+  ![GitHub streak stats](https://streak-stats.demolab.com/?user=ahleksu)  
+
+</div>
 
 ###
