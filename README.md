@@ -4,6 +4,10 @@
 
 <h3 align="center">Data Scientist 🔍| Developer🧑‍💻| UI/UX Designer🎨 | Content Creator 📸</h3>
 
+<div align="center">
+    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahleksu)](https://github.com/anuraghazra/github-readme-stats)
+</div>
+
 ###
 
 <h2 align="left">About me</h2>
@@ -110,8 +114,6 @@
 <div align="center">
 
   [![trophy](https://github-profile-trophy.vercel.app/?username=ahleksu)](https://github.com/ryo-ma/github-profile-trophy)
-
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahleksu)](https://github.com/anuraghazra/github-readme-stats)
 
   ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ahleksu&show_icons=true&count_private=true)
 
