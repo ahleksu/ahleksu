@@ -1,5 +1,3 @@
-### Hi there 👋, the name is Alex!
-#### Data Scientist 🔍| Developer🧑‍💻| UI/UX Designer🎨 | Content Creator 📸
 ![Page Banner](https://github.com/ahleksu/ahleksu/blob/main/page_banner.png)
 
 Aspiring data scientist and software engineer with a Bachelor's degree in Computer Science from the University of Makati, graduating Magna Cum Laude. With a focus on Computational and Data Sciences, I have honed my skills in machine learning, deep learning, and application development. I bring hands-on experience from internships and freelance projects, including developing Android applications, full-stack web solutions, and dynamic data dashboards. Recognized for my innovative projects and strong academic performance, I am eager to leverage my technical expertise and problem-solving abilities to drive impactful solutions in a professional setting. Connect with me on LinkedIn at linkedin.com/in/ahleksu and view my projects on GitHub at github.com/ahleksu.
