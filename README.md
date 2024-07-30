@@ -2,13 +2,13 @@
 
 ###
 
-<h3 align="center">Data Scientist 🔍| Developer🧑‍💻| UI/UX Designer🎨 | Content Creator 📸</h3>
-
-###
-
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=ahleksu.ahleksu&left_text=Profile%20Views"  />
 </div>
+
+###
+
+<h3 align="center">Data Scientist 🔍| Developer🧑‍💻| UI/UX Designer🎨 | Content Creator 📸</h3>
 
 ###
 
