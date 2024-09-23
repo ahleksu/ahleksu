@@ -24,7 +24,7 @@
 
 ###
 
-<p align="left">Aspiring data scientist and software engineer with a Bachelor's degree in Computer Science from the University of Makati, graduating Magna Cum Laude. With a focus on Computational and Data Sciences, I have honed my skills in machine learning, deep learning, and application development. <br><br>I bring hands-on experience from internships and freelance projects, including developing Android applications, full-stack web solutions, and dynamic data dashboards. Recognized for my innovative projects and strong academic performance, I am eager to leverage my technical expertise and problem-solving abilities to drive impactful solutions in a professional setting.</p>
+<p align="left">Aspiring data scientist and software engineer with a Bachelor's degree in Computer Science from the University of Makati, graduated with Magna Cum Laude honor. With a focus on Computational and Data Sciences, I have honed my skills in machine learning, deep learning, and application development. <br><br>I bring hands-on experience from internships and freelance projects, including developing Android applications, full-stack web solutions, and dynamic data dashboards. Recognized for my innovative projects and strong academic performance, I am eager to leverage my technical expertise and problem-solving abilities to drive impactful solutions in a professional setting.</p>
 
 ###
 
