@@ -1,4 +1,8 @@
-<h1 align="center">Hi there 👋, the name's Alex!</h1>
+<h1 align="center">Hi there 👋, the name is Alex!</h1>
+
+###
+
+<h3 align="center">Data Scientist 🔍| Software Developer 🧑‍💻| AWS re/Start Alumni 🎓 | DataCamp Donates Scholar 📝</h3>
 
 ###
 
@@ -8,23 +12,11 @@
 
 ###
 
-<h3 align="center">Data Scientist 🔍| Developer🧑‍💻| UI/UX Designer🎨 | Content Creator 📸</h3>
-
-###
-
-<div align="center">
-    
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahleksu)](https://github.com/anuraghazra/github-readme-stats)
-    
-</div>
-
-###
-
 <h2 align="left">About me</h2>
 
 ###
 
-<p align="left">Aspiring data scientist and software engineer with a Bachelor's degree in Computer Science from the University of Makati, graduated with Magna Cum Laude honor. With a focus on Computational and Data Sciences, I have honed my skills in machine learning, deep learning, and application development. <br><br>I bring hands-on experience from internships and freelance projects, including developing Android applications, full-stack web solutions, and dynamic data dashboards. Recognized for my innovative projects and strong academic performance, I am eager to leverage my technical expertise and problem-solving abilities to drive impactful solutions in a professional setting.</p>
+<p align="left">Graduate in Computer Science (Magna Cum Laude) with 8 months of experience as a Data Scientist, combining a strong foundation in data analysis, machine learning, cloud computing (AWS), and full-stack development. I have delivered impactful data solutions, automated pipelines, and dynamic dashboards that enhanced operational efficiency across business units. With hands-on experience across Python, Power BI, AWS, and application development, I bring a creative, solutions-driven approach to every project. Eager to grow in data, cloud, or software engineering roles, I thrive in environments where technical excellence meets real-world impact.<br>I bring hands-on experience from internships and freelance projects, including developing Android applications, full-stack web solutions, and dynamic data dashboards. Recognized for my innovative projects and strong academic performance, I am eager to leverage my technical expertise and problem-solving abilities to drive impactful solutions in a professional setting.</p>
 
 ###
 
@@ -58,15 +50,21 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="fastapi logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="40" alt="kaggle logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
   <img width="12" />
@@ -90,15 +88,9 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="anaconda logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="pytorch logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="fastapi logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="40" alt="kaggle logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
   <img width="12" />
@@ -108,27 +100,19 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain.svg" height="40" alt="codeigniter logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" height="40" alt="jetbrains logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="pycharm logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
 </div>
 
 ###
 
 <div align="center">
-
-  [![trophy](https://github-profile-trophy.vercel.app/?username=ahleksu)](https://github.com/ryo-ma/github-profile-trophy)
-
-  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ahleksu&show_icons=true&count_private=true)
-
-  ![GitHub streak stats](https://streak-stats.demolab.com/?user=ahleksu)
-
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ahleksu&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###
