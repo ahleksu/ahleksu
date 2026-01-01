@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="center">Data Scientist 🔍| Software Developer 🧑‍💻| AWS Certified Cloud Practitioner ☁️ <br>AWS re/Start Alumni 🎓 | DataCamp Donates Scholar 📝</h3>
+<h3 align="center">Data Scientist 🔍| Software Engineer 🧑‍💻| AWS Certified Cloud Practitioner ☁️ <br>AWS re/Start Alumni 🎓 | DataCamp Donates Scholar 📝 | AI/LLM Engineering Scholar</h3>
 
 ###
 
@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">Graduate in Computer Science (Magna Cum Laude) with 8 months of experience as a Data Scientist, combining a strong foundation in data analysis, machine learning, cloud computing (AWS), and full-stack development. I have delivered impactful data solutions, automated pipelines, and dynamic dashboards that enhanced operational efficiency across business units. With hands-on experience across Python, Power BI, AWS, and application development, I bring a creative, solutions-driven approach to every project. Eager to grow in data, cloud, or software engineering roles, I thrive in environments where technical excellence meets real-world impact.<br>I bring hands-on experience from internships and freelance projects, including developing Android applications, full-stack web solutions, and dynamic data dashboards. Recognized for my innovative projects and strong academic performance, I am eager to leverage my technical expertise and problem-solving abilities to drive impactful solutions in a professional setting.</p>
+<p align="left">Graduate in Computer Science (Magna Cum Laude) with >1 year of experience as a Data Scientist, combining a strong foundation in data analysis, machine learning, cloud computing (AWS), and full-stack development. I have delivered impactful data solutions, automated pipelines, and dynamic dashboards that enhanced operational efficiency across business units. With hands-on experience across Python, Power BI, AWS, and application development, I bring a creative, solutions-driven approach to every project. Eager to grow in data, cloud, or software engineering roles, I thrive in environments where technical excellence meets real-world impact.<br>I bring hands-on experience from internships and freelance projects, including developing Android applications, full-stack web solutions, and dynamic data dashboards. Recognized for my innovative projects and strong academic performance, I am eager to leverage my technical expertise and problem-solving abilities to drive impactful solutions in a professional setting.</p>
 
 ###
 
