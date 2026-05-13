@@ -1,116 +1,84 @@
-<h1 align="center">Hi there 👋, the name is Alex!</h1>
+<h1 align="center">Hi, I'm Alex Robles</h1>
 
-###
+<p align="center">
+  <strong>Data Intelligence Officer | AI & BI Engineer | Enterprise analytics, data systems, and applied AI</strong>
+</p>
 
-<h3 align="center">Data Scientist 🔍| Software Engineer 🧑‍💻| AWS Certified Cloud Practitioner ☁️ <br>AWS re/Start Alumni 🎓 | DataCamp Donates Scholar 📝 | AI/LLM Engineering Scholar</h3>
-
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=ahleksu.ahleksu&left_text=Profile%20Views"  />
-</div>
-
-###
-
-<h2 align="left">About me</h2>
-
-###
-
-<p align="left">Graduate in Computer Science (Magna Cum Laude) with >1 year of experience as a Data Scientist, combining a strong foundation in data analysis, machine learning, cloud computing (AWS), and full-stack development. I have delivered impactful data solutions, automated pipelines, and dynamic dashboards that enhanced operational efficiency across business units. With hands-on experience across Python, Power BI, AWS, and application development, I bring a creative, solutions-driven approach to every project. Eager to grow in data, cloud, or software engineering roles, I thrive in environments where technical excellence meets real-world impact.<br>I bring hands-on experience from internships and freelance projects, including developing Android applications, full-stack web solutions, and dynamic data dashboards. Recognized for my innovative projects and strong academic performance, I am eager to leverage my technical expertise and problem-solving abilities to drive impactful solutions in a professional setting.</p>
-
-###
-
-<p align="left">🔭 I’m currently working on this page. <br>🌱 I’m currently learning Flutter, Next.js, Typescript<br>💬 Ask me about AWS Cloud, UI/UX Design, Data Analysis, Visualization and Storytelling, Machine Learning, and App Development<br>😄 Pronouns: He/Him</p>
-
-###
-
-<h2 align="left">Check out my links below</h2>
-
-###
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/ahleksu/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+<p align="center">
+  <a href="https://www.linkedin.com/in/ahleksu/">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  <a href="https://www.youtube.com/@ahleksu" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
+  <a href="mailto:ahleksu.dev@gmail.com">
+    <img alt="Email" src="https://img.shields.io/badge/Email-1F2937?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
-  <a href="https://www.facebook.com/alexuUwUuu" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
+  <a href="https://github.com/ahleksu">
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white">
   </a>
-  <a href="https://www.instagram.com/ahleksuu/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
-</div>
+</p>
 
-###
+---
 
-<h2 align="left">I work with</h2>
+## About
 
-###
+I work at the intersection of business questions, fragmented data sources, and the systems needed to support clearer decisions.
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="fastapi logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="40" alt="kaggle logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angularjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" alt="android logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="androidstudio logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="dart logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="anaconda logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="pytorch logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" height="40" alt="jetbrains logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="pycharm logo"  />
-</div>
+My work focuses on business intelligence, data engineering, analytics workflows, data quality, and applied AI. In practice, that means translating reporting needs into dashboards, clarifying metric definitions, shaping technical requirements, documenting governance logic, and building data workflows that help teams trust what they are looking at.
 
-###
+I am currently focused on:
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ahleksu&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
+- Building analytics and BI workflows for enterprise decision support
+- Designing data models, dashboard requirements, and reporting logic
+- Improving data quality, metric definitions, and documentation practices
+- Exploring practical AI and LLM workflows for productivity and analytics
+- Sharing data, cloud, and career lessons with students and early-career professionals
 
-###
+## Credentials
+
+<p>
+  <img alt="AWS Certified" src="https://img.shields.io/badge/1x%20AWS-Certified-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white">
+  <img alt="Google Credentialed" src="https://img.shields.io/badge/2x%20Google-Credentialed-4285F4?style=for-the-badge&logo=google&logoColor=white">
+  <img alt="Databricks Accredited" src="https://img.shields.io/badge/5x%20Databricks-Accredited-FF3621?style=for-the-badge&logo=databricks&logoColor=white">
+  <img alt="DataCamp Credentialed" src="https://img.shields.io/badge/6x%20DataCamp-Credentialed-03EF62?style=for-the-badge&logo=datacamp&logoColor=111827">
+</p>
+
+Selected credentials include AWS Certified Cloud Practitioner, Google Generative AI Leader, DataCamp Associate Data Engineer / Associate Data Analyst, AWS re/Start, PSI AI/LLM Engineering, and Databricks credentials across Data Governance, Generative AI, AI Agents, and platform fundamentals.
+
+## Core Stack
+
+<p>
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
+  <img alt="SQL" src="https://img.shields.io/badge/SQL-334155?style=flat-square&logo=postgresql&logoColor=white">
+  <img alt="Databricks" src="https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white">
+  <img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white">
+  <img alt="Looker Studio" src="https://img.shields.io/badge/Looker%20Studio-4285F4?style=flat-square&logo=looker&logoColor=white">
+  <img alt="Power BI" src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=111827">
+  <img alt="Streamlit" src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white">
+  <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white">
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white">
+  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white">
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white">
+  <img alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white">
+</p>
+
+## What I Like Building
+
+- Decision-support dashboards with clear metric logic
+- Data workflows that reduce manual reporting effort
+- BI and analytics prototypes that make stakeholder questions easier to answer
+- AI-assisted tools for documentation, learning, and productivity
+- Practical learning materials for data, cloud, and early-career tech paths
+
+## Community
+
+I stay active in the Philippine tech community through AWS, GDG, AI, and developer events. I have spoken to students and early-career professionals about cloud, data, and career growth, and I care about making technical careers more navigable for fresh graduates.
+
+## GitHub Snapshot
+
+<p align="center">
+  <img height="165" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=ahleksu&show_icons=true&hide_title=true&hide_border=true&theme=github_dark">
+  <img height="165" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahleksu&layout=compact&hide_border=true&theme=github_dark&langs_count=6">
+</p>
+
+<p align="center">
+  <em>Most of my enterprise work is private, so this profile highlights public learning, prototypes, and community-facing work.</em>
+</p>
