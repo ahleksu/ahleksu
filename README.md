@@ -15,6 +15,18 @@
   <a href="https://github.com/ahleksu">
     <img alt="GitHub" src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white">
   </a>
+  <a href="https://www.datacamp.com/portfolio/ahleksu">
+    <img alt="DataCamp" src="https://img.shields.io/badge/DataCamp-03EF62?style=for-the-badge&logo=datacamp&logoColor=111827">
+  </a>
+  <a href="https://www.kaggle.com/ahleksuu">
+    <img alt="Kaggle" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white">
+  </a>
+  <a href="https://substack.com/@ahleksu">
+    <img alt="Substack" src="https://img.shields.io/badge/Substack-FF6719?style=for-the-badge&logo=substack&logoColor=white">
+  </a>
+  <a href="https://medium.com/@ahleksu">
+    <img alt="Medium" src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white">
+  </a>
 </p>
 
 ---
