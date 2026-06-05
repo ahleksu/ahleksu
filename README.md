@@ -106,7 +106,7 @@ I stay active in the Philippine tech community through AWS, GDG, AI, and develop
 ## GitHub Snapshot
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=ahleksu&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="GitHub streak graph" />
+  <img src="https://raw.githubusercontent.com/ahleksu/ahleksu/stats-output/stats.svg" height="150" alt="stats graph"  />
 </div>
 
 <p align="center">
