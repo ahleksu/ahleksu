@@ -103,12 +103,6 @@ Selected credentials include AWS Certified Solutions Architect – Associate, AW
 
 I stay active in the Philippine tech community through AWS, GDG, AI, and developer events. I’ve spoken to students and early-career professionals about cloud, data, and career growth, and I’m especially interested in helping fresh graduates build practical, industry-ready skills.
 
-## GitHub Snapshot
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/ahleksu/ahleksu/stats-output/stats.svg" height="150" alt="stats graph"  />
-</div>
-
 <p align="center">
   <em>Most of my enterprise work is private, so this profile highlights public learning, prototypes, and community-facing work.</em>
 </p>
